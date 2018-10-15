@@ -1,0 +1,16 @@
+..\obj\flash.o: ..\c_file\flash.c
+..\obj\flash.o: ..\h_file\flash.h
+..\obj\flash.o: ..\h_file\hr8p506.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\flash.o: ..\h_file\config.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\ctype.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+..\obj\flash.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\rt_misc.h
+..\obj\flash.o: ..\h_file\fylib.h
+..\obj\flash.o: ..\h_file\config.h
+..\obj\flash.o: ..\h_file\hal.h
+..\obj\flash.o: ..\h_file\app.h
+..\obj\flash.o: ..\h_file\err.h

@@ -1,0 +1,36 @@
+*** Creating Trace Output File '..\obj\haier_sizhou.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\startup_hr8p506.o"'
+### List of Objects: adding '"..\Libraries\imu.lib"'
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\scu.o"'
+### List of Objects: adding '"..\obj\interrupt.o"'
+### List of Objects: adding '"..\obj\app.o"'
+### List of Objects: adding '"..\obj\fylib.o"'
+### List of Objects: adding '"..\obj\hal.o"'
+### List of Objects: adding '"..\obj\parameter.o"'
+### List of Objects: adding '"..\obj\hw2000.o"'
+### List of Objects: adding '"..\obj\timer.o"'
+### List of Objects: adding '"..\obj\flash.o"'
+### List of Objects: adding '"..\obj\altitude.o"'
+### List of Objects: adding '"..\obj\baro.o"'
+### List of Objects: adding '"..\obj\altitude1.o"'
+### List of Objects: adding '"..\c_file\state_estimation.lib"'
+### List of Objects: adding '"..\obj\uart.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 "..\obj\startup_hr8p506.o" F:\APEX\Frank\VL210\VL210\Libraries\imu.lib "..\obj\main.o" "..\obj\scu.o" "..\obj\interrupt.o" "..\obj\app.o" "..\obj\fylib.o" "..\obj\hal.o" "..\obj\parameter.o" "..\obj\hw2000.o" "..\obj\timer.o" "..\obj\flash.o" "..\obj\altitude.o" "..\obj\baro.o" "..\obj\altitude1.o" F:\APEX\Frank\VL210\VL210\c_file\state_estimation.lib "..\obj\uart.o" 
+--strict --scatter "..\obj\haier_sizhou.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\list\haier_sizhou.map" -o ..\obj\haier_sizhou.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\obj\haier_sizhou.axf'
+### ADS-LD Command File: '..\obj\haier_sizhou.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\obj\haier_sizhou.lnp', Handle=0x00000364
+### Writing '.lnp' file
+### ADS-LD Command file '..\obj\haier_sizhou.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,14 @@
+..\obj\parameter.o: ..\c_file\parameter.c
+..\obj\parameter.o: ..\h_file\config.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\ctype.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+..\obj\parameter.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\rt_misc.h
+..\obj\parameter.o: ..\h_file\fylib.h
+..\obj\parameter.o: ..\h_file\config.h
+..\obj\parameter.o: ..\h_file\hal.h
+..\obj\parameter.o: ..\h_file\app.h
+..\obj\parameter.o: ..\h_file\err.h

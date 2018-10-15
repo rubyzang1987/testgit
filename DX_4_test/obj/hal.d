@@ -1,0 +1,14 @@
+..\obj\hal.o: ..\c_file\hal.c
+..\obj\hal.o: ..\h_file\config.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\ctype.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+..\obj\hal.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\rt_misc.h
+..\obj\hal.o: ..\h_file\fylib.h
+..\obj\hal.o: ..\h_file\config.h
+..\obj\hal.o: ..\h_file\hal.h
+..\obj\hal.o: ..\h_file\app.h
+..\obj\hal.o: ..\h_file\err.h

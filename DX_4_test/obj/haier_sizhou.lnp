@@ -1,0 +1,21 @@
+--cpu Cortex-M0
+"..\obj\startup_hr8p506.o"
+"..\Libraries\imu.lib"
+"..\obj\main.o"
+"..\obj\scu.o"
+"..\obj\interrupt.o"
+"..\obj\app.o"
+"..\obj\fylib.o"
+"..\obj\hal.o"
+"..\obj\parameter.o"
+"..\obj\hw2000.o"
+"..\obj\timer.o"
+"..\obj\flash.o"
+"..\obj\altitude.o"
+"..\obj\baro.o"
+"..\obj\altitude1.o"
+"..\c_file\state_estimation.lib"
+--strict --scatter "..\obj\haier_sizhou.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\list\haier_sizhou.map" -o ..\obj\haier_sizhou.axf

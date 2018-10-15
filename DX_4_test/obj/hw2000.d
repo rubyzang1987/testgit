@@ -1,0 +1,17 @@
+..\obj\hw2000.o: ..\c_file\hw2000.c
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\hw2000.o: ..\h_file\hr8p506.h
+..\obj\hw2000.o: ..\h_file\config.h
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\ctype.h
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+..\obj\hw2000.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\rt_misc.h
+..\obj\hw2000.o: ..\h_file\fylib.h
+..\obj\hw2000.o: ..\h_file\config.h
+..\obj\hw2000.o: ..\h_file\hal.h
+..\obj\hw2000.o: ..\h_file\app.h
+..\obj\hw2000.o: ..\h_file\err.h
+..\obj\hw2000.o: ..\h_file\spi.h
+..\obj\hw2000.o: ..\h_file\timer.h

@@ -1,0 +1,191 @@
+Dependencies for Project 'haier_sizhou', Target 'haier_sizhou': (DO NOT MODIFY !)
+F (.\startup_HR8P506.s)(0x5B48628E)(--cpu Cortex-M0 -g --apcs=interwork -I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR--list ..\list\startup_hr8p506.lst --xref -o ..\obj\startup_hr8p506.o --depend ..\obj\startup_hr8p506.d)
+F (..\Libraries\imu.lib)(0x5B48628E)()
+F (..\c_file\main.c)(0x5BBC15A6)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+I (..\h_file\msic_device.h)(0x5B48628E)
+I (..\h_file\hw2000.h)(0x5B48628E)
+I (..\h_file\flash.h)(0x5B48628E)
+I (..\h_file\state_estimation.h)(0x5B505817)
+F (..\c_file\scu.c)(0x5BAD8FC2)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\scu.o --omf_browse ..\obj\scu.crf --depend ..\obj\scu.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+I (..\h_file\msic_device.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\hw2000.h)(0x5B48628E)
+I (..\h_file\flash.h)(0x5B48628E)
+F (..\c_file\interrupt.c)(0x5BB6DD56)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\interrupt.o --omf_browse ..\obj\interrupt.crf --depend ..\obj\interrupt.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\hw2000.h)(0x5B48628E)
+I (..\h_file\flash.h)(0x5B48628E)
+F (..\c_file\app.c)(0x5BBF3F9A)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\app.o --omf_browse ..\obj\app.crf --depend ..\obj\app.d)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+I (..\h_file\flash.h)(0x5B48628E)
+I (..\h_file\uart.h)(0x5BA2FEB3)
+F (..\c_file\fylib.c)(0x5BAA38A3)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\fylib.o --omf_browse ..\obj\fylib.crf --depend ..\obj\fylib.d)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+F (..\c_file\hal.c)(0x5BA2F599)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\hal.o --omf_browse ..\obj\hal.crf --depend ..\obj\hal.d)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+F (..\c_file\parameter.c)(0x5B889792)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\parameter.o --omf_browse ..\obj\parameter.crf --depend ..\obj\parameter.d)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+F (..\c_file\hw2000.c)(0x5BA2FDAA)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\hw2000.o --omf_browse ..\obj\hw2000.crf --depend ..\obj\hw2000.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\spi.h)(0x5B48628E)
+I (..\h_file\timer.h)(0x5B48628E)
+F (..\c_file\timer.c)(0x5BA2FDD3)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\timer.o --omf_browse ..\obj\timer.crf --depend ..\obj\timer.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+F (..\c_file\flash.c)(0x5B48628E)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\flash.o --omf_browse ..\obj\flash.crf --depend ..\obj\flash.d)
+I (..\h_file\flash.h)(0x5B48628E)
+I (..\h_file\hr8p506.h)(0x5B48628E)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+F (..\c_file\altitude.c)(0x5BBC0E72)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\altitude.o --omf_browse ..\obj\altitude.crf --depend ..\obj\altitude.d)
+I (..\h_file\altitude.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+F (..\c_file\baro.c)(0x5BA2FE4B)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\baro.o --omf_browse ..\obj\baro.crf --depend ..\obj\baro.d)
+I (..\h_file\baro.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\state_estimation.h)(0x5B505817)
+F (..\c_file\altitude1.c)(0x5BBC1629)(-c --cpu Cortex-M0 -g -O1 --apcs=interwork -I..\cmsis -I..\c_file -I..\hr8p506 -I..\h_file-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\HR-o ..\obj\altitude1.o --omf_browse ..\obj\altitude1.crf --depend ..\obj\altitude1.d)
+I (..\h_file\altitude1.h)(0x5B48628E)
+I (..\h_file\config.h)(0x5BBF06D2)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\ctype.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\Keil_v4\ARM\ARMCC\include\rt_misc.h)(0x51C7B744)
+I (..\h_file\fylib.h)(0x5B48628E)
+I (..\h_file\hal.h)(0x5B9FA2DE)
+I (..\h_file\app.h)(0x5BAA387D)
+I (..\h_file\err.h)(0x5B48628E)
+I (..\h_file\state_estimation.h)(0x5B505817)
+F (..\c_file\state_estimation.lib)(0x5B48628E)()
+F (..\h_file\config.h)(0x5BBF06D2)()
+F (..\h_file\hw2000.h)(0x5B48628E)()
+F (..\h_file\msic_device.h)(0x5B48628E)()

@@ -1,0 +1,17 @@
+..\obj\uart.o: ..\c_file\UART.c
+..\obj\uart.o: ..\h_file\uart.h
+..\obj\uart.o: ..\h_file\config.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\ctype.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+..\obj\uart.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\rt_misc.h
+..\obj\uart.o: ..\h_file\fylib.h
+..\obj\uart.o: ..\h_file\config.h
+..\obj\uart.o: ..\h_file\hal.h
+..\obj\uart.o: ..\h_file\app.h
+..\obj\uart.o: ..\h_file\err.h
+..\obj\uart.o: ..\h_file\hr8p506.h
+..\obj\uart.o: ..\h_file\state_estimation.h

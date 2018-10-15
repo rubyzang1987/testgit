@@ -1,0 +1,15 @@
+..\obj\altitude.o: ..\c_file\altitude.c
+..\obj\altitude.o: ..\h_file\altitude.h
+..\obj\altitude.o: ..\h_file\config.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\ctype.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\string.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\math.h
+..\obj\altitude.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\rt_misc.h
+..\obj\altitude.o: ..\h_file\fylib.h
+..\obj\altitude.o: ..\h_file\config.h
+..\obj\altitude.o: ..\h_file\hal.h
+..\obj\altitude.o: ..\h_file\app.h
+..\obj\altitude.o: ..\h_file\err.h
